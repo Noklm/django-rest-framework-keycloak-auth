@@ -2,7 +2,7 @@
 
 
 django-rest-framework-keycloak-auth is a Django app to use Single sign-on using Keycloak.
-Users aren't now managed by Keycloak. This app is based on djangorestframework
+Users are now managed by Keycloak. This app is based on djangorestframework
 
 ## Dependencies
 1. [django](https://www.djangoproject.com/)
